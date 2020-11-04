@@ -1,0 +1,5 @@
+C:\Users\admin\documents\visual studio 2010\Projects\interfax_text\interfax_text\bin\Debug\interfax_text.dll
+C:\Users\admin\documents\visual studio 2010\Projects\interfax_text\interfax_text\bin\Debug\interfax_text.pdb
+C:\Users\admin\documents\visual studio 2010\Projects\interfax_text\interfax_text\obj\Debug\interfax_text.dll
+C:\Users\admin\documents\visual studio 2010\Projects\interfax_text\interfax_text\obj\Debug\interfax_text.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\interfax_text\interfax_text\obj\Debug\interfax_text.csprojResolveAssemblyReference.cache

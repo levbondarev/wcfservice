@@ -1,0 +1,17 @@
+C:\Users\admin\AppData\Local\Temporary Projects\interfax_webclient\bin\Debug\interfax_webclient.exe
+C:\Users\admin\AppData\Local\Temporary Projects\interfax_webclient\bin\Debug\interfax_webclient.pdb
+C:\Users\admin\AppData\Local\Temporary Projects\interfax_webclient\obj\x86\Debug\interfax_webclient.Properties.Resources.resources
+C:\Users\admin\AppData\Local\Temporary Projects\interfax_webclient\obj\x86\Debug\interfax_webclient.csproj.GenerateResource.Cache
+C:\Users\admin\AppData\Local\Temporary Projects\interfax_webclient\obj\x86\Debug\interfax_webclient.exe
+C:\Users\admin\AppData\Local\Temporary Projects\interfax_webclient\obj\x86\Debug\interfax_webclient.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\interfax_webclient\interfax_webclient\obj\x86\Debug\interfax_webclient.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\interfax_webclient\interfax_webclient\obj\x86\Debug\interfax_webclient.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\interfax_webclient\interfax_webclient\obj\x86\Debug\interfax_webclient.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\interfax_webclient\interfax_webclient\obj\x86\Debug\interfax_webclient.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2010\Projects\interfax_webclient\interfax_webclient\obj\x86\Debug\interfax_client.Form1.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\interfax_webclient\interfax_webclient\bin\Debug\interfax_webclient.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\interfax_webclient\interfax_webclient\bin\Debug\interfax_webclient.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\interfax_webclient\interfax_webclient\bin\Debug\ClassNameProxy.cs
+C:\Users\admin\Documents\Visual Studio 2010\Projects\interfax_webclient\interfax_webclient\obj\x86\Debug\interfax_webclient.Form2.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\interfax_webclient\interfax_webclient\bin\Debug\app.config
+C:\Users\admin\Documents\Visual Studio 2010\Projects\interfax_webclient\interfax_webclient\bin\Debug\interfax_webclient.exe.config

@@ -1,0 +1,9 @@
+C:\Users\admin\documents\visual studio 2010\Projects\wcfclient\wcfclient\bin\Debug\wcfclient.exe.config
+C:\Users\admin\documents\visual studio 2010\Projects\wcfclient\wcfclient\bin\Debug\wcfclient.exe
+C:\Users\admin\documents\visual studio 2010\Projects\wcfclient\wcfclient\bin\Debug\wcfclient.pdb
+C:\Users\admin\documents\visual studio 2010\Projects\wcfclient\wcfclient\obj\x86\Debug\wcfclient.exe
+C:\Users\admin\documents\visual studio 2010\Projects\wcfclient\wcfclient\obj\x86\Debug\wcfclient.pdb
+C:\Users\admin\documents\visual studio 2010\Projects\wcfclient\wcfclient\bin\Debug\app.config
+C:\Users\admin\documents\visual studio 2010\Projects\wcfclient\wcfclient\obj\x86\Debug\wcfclient.WCFService.resources
+C:\Users\admin\documents\visual studio 2010\Projects\wcfclient\wcfclient\obj\x86\Debug\wcfclient.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2010\Projects\wcfclient\wcfclient\obj\x86\Debug\wcfclient.csprojResolveAssemblyReference.cache
