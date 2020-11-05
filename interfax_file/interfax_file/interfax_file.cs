@@ -9,14 +9,14 @@ namespace interfax_file
     public class interfax_file
     {
         public static SqlConnection
-               GetDBConnection()//asdfsdaf
+               GetDBConnection()//Getting and starting the connection
         {
             string connString; 
             connString = Properties.Settings.Default.interfax_fileConnectionString;
             SqlConnection conn = new SqlConnection(connString);
             return conn;
         }
-        public  List<string[]> if_read(){
+        public  List<string[]> if_read(){ //returns List of Stringarrays, where string array is date and memory.
             try
             {
                 List<string[]> templist = new List<string[]>();
